@@ -46,3 +46,10 @@ A list of readings will also be provided for every lecture. You will have to rea
 2. Software Evolution
     * A [seminal article](papers/softwareEvolution/Lehman-LawsOfSoftwareEvolution.pdf) by Lehman on the laws of software evolution (1980) and a [more recent article](papers/softwareEvolution/Lehman-SoftwareEvolutionOverview.pdf) by Lehman which gives an overview of 35 years of research in this field.
     * An [article](papers/softwareEvolution/Parnas-SoftwareAging.pdf) by Parnas that discusses software evolution issues with an interesting analogy.
+
+3. Object Oriented Reengineering
+    * The [book](http://scg.unibe.ch/download/oorp/) on the subject, on which the lecture was based (free pdf available for download).
+    
+4. Continuous Delivery
+    * [Free chapter](./papers/continuousDelivery/ContinousDeliveryPipeline.pdf) of the Continuous Delivery [book](http://www.amazon.com/dp/0321601912?tag=contindelive-20) and [companion web site](http://continuousdelivery.com/).
+    
