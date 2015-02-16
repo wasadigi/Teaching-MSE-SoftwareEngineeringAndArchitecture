@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the second part of the course, we will focus on agile development methodologies, practices and tools. Our goal is to have a **balance between theory and practice**. For this reason, the program will combine the following elements:
+In the first and third parts of the course, we will focus on agile development methodologies, practices and tools. Our goal is to have a **balance between theory and practice**. For this reason, the program will combine the following elements:
 
 1. **Lectures**, where we will **introduce concepts and present theoretical background**. For instance, we will talk about [software evolution](http://en.wikipedia.org/wiki/Software_evolution) and explain how the philosophy of agile development is not something new (the limits of the waterfall model have been identified decades ago). We will also talk about [software reengineering](http://scg.unibe.ch/download/oorp/) and explain how these types of projects are different from *green field* software development projects. In terms of practices, we will talk about [continuous delivery](http://continuousdelivery.com/) and [behavior driven development](http://dannorth.net/introducing-bdd/).
 
