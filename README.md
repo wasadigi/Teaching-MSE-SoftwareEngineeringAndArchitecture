@@ -2,32 +2,45 @@
 
 ## Introduction
 
-In the second part of the course, we will focus on agile development methodologies, practices and tools. Our goal is to have a **balance between theory and practice**. For this reason, the program will combine the following elements:
+In the first and third parts of the course, we will focus on agile development methodologies, practices and tools. Our goal is to have a **balance between theory and practice**. For this reason, the program will combine the following elements:
 
 1. **Lectures**, where we will **introduce concepts and present theoretical background**. For instance, we will talk about [software evolution](http://en.wikipedia.org/wiki/Software_evolution) and explain how the philosophy of agile development is not something new (the limits of the waterfall model have been identified decades ago). We will also talk about [software reengineering](http://scg.unibe.ch/download/oorp/) and explain how these types of projects are different from *green field* software development projects. In terms of practices, we will talk about [continuous delivery](http://continuousdelivery.com/) and [behavior driven development](http://dannorth.net/introducing-bdd/).
 
-2. **Case Studies**, where we will **learn about the concrete experience of practitioners** who have applied agile methodologies and practices on real projects. Do the methodologies really work? What is the difference between what you read in books and what you experience in real life? What are the quick wins? What is hard? How do you concretely put continuous delivery and behavior driven development in practice? We will hear from **guest speakers** who have gained experience both in different types of organizations, **from start-ups to large corporations**.
+2. **Labs & Experiments with Tools**, where will introduce several software engineering tools. Firstly, in the area of **continuous delivery**, we will present tools such as [jenkins](http://jenkins-ci.org/) and its relationship with other tools like [maven](http://maven.apache.org/) and [git](http://git-scm.com/). We will also show that it is now possible to [build continuous delivery pipelines in the cloud](http://www.cloudbees.com/). Secondly, in the areas of **behavior driven development**, we will introduce tools like [jbehave](http://jbehave.org/), [cucumber](http://cukes.info/) and [selenium](http://docs.seleniumhq.org/).
 
-3. **Labs & Experiments with Tools**, where will introduce several software engineering tools. Firstly, in the area of **continuous delivery**, we will present tools such as [jenkins](http://jenkins-ci.org/) and its relationship with other tools like [maven](http://maven.apache.org/) and [git](http://git-scm.com/). We will also show that it is now possible to [build continuous delivery pipelines in the cloud](http://www.cloudbees.com/). Secondly, in the areas of **behavior driven development**, we will introduce tools like [jbehave](http://jbehave.org/), [cucumber](http://cukes.info/) and [selenium](http://docs.seleniumhq.org/).
+3. **Case Studies**, where we will **learn about the concrete experience of practitioners** who have applied agile methodologies and practices on real projects. Do the methodologies really work? What is the difference between what you read in books and what you experience in real life? What are the quick wins? What is hard? How do you concretely put continuous delivery and behavior driven development in practice? We will hear from **guest speakers** who have gained experience both in different types of organizations, **from start-ups to large corporations**.
 
 ## Schedule
 
-Date    | Topic  | Guest
---------|--------|------
-25.03.2014   | The Scrum Methodology  | Carlo Critini (Credit Suisse), *From Waterfall to Scrum, in practice*
-01.04.2014   | Software Evolution | 
-08.04.2014   | Software Reengineering  | Gabriel Dinant (Lotaris), *Continuous Evolution in an Agile Development Team*
-15.04.2014   | Continuous Delivery  | Laurent Prévost (Lotaris), *Building a Continous Delivery Pipeline*
+ *Agile Topics, taught by Olivier Liechti* 
 
-*Eastern Break*
-
-Date    | Topic  | Guest
+Date    | Topic  | Lab
 --------|--------|------
-29.04.2014   | Continuous Delivery Lab  | 
-06.05.2014   | Agile Practices  | Karim Mazouni and François Helg (Octo), *Case Studies in Agile Development*
-13.05.2014   | Behavior Driven Development (BDD). Theory and Practice.  | 
-20.05.2014   | Connecting the dots: integrating BDD and continuous delivery in a a lean development process  | Simon Oulevay (Lotaris), *Building an Integrated Test Infrastructure*
-27.05.2014   | Agile Development At Scale  | Michael Stump (Scaled Agile Framework), *Scaling Scrum to Large Organizations*
+16.02.2015  | Intro to agile development | [Intro to vagrant & docker](https://github.com/wasadigi/Teaching-MSE-SEA-Lab-VagrantDocker)
+23.02.2015  | From continuous integration to continuous delivery | Building a CI/CD pipeline
+02.03.2015  | Behavior Driven Development (BDD) | BDD in practice  
+09.03.2015  | Agile testing | Building an integrated testing infrastructure
+16.03.2015  | Agile development in practice (Guest) | Designing an agile room
+
+ *Architecture Topics, taught by Olivier Biberstein* 
+ 
+Date    | Topic  | Lab
+--------|--------|------
+23.03.2015  | | 
+30.03.2015  | | 
+13.04.2015  | |  
+20.04.2015  | |
+27.04.2015  | |
+
+  *Evolution Topics, taught by Olivier Liechti* 
+
+Date    | Topic  | Lab
+--------|--------|------
+04.05.2015  | Software evolution | Software quality with SonarQube 
+11.05.2015  | Software re-engineering | Group activity 
+18.05.2015  | Group presentations | Group presentations 
+01.06.2015  | Guest speaker (TBD) | Recap/Q&A session before the exam 
+
 
 ## Evaluation
 
